@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>refs/retouch_2024061811262816.png</file>
+        <file>refs/retouch_2024061811475412.png</file>
+        <file>refs/StartScreen.jpg</file>
+    </qresource>
+</RCC>
